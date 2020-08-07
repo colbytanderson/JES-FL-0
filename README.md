@@ -1,6 +1,4 @@
-# flaskeddit
-
-[![CircleCI](https://circleci.com/gh/aqche/flaskeddit.svg?style=shield)](https://circleci.com/gh/aqche/flaskeddit)
+# Reddit-Clone-Flask
 
 A simplified Reddit clone built with Flask.
 
@@ -30,7 +28,6 @@ To run this application you need [Python](https://www.python.org/), [pip](https:
 Clone the project.
 
 ```
-git clone https://github.com/aqche/flaskeddit.git
 ```
 
 Setup a `venv` and use `pip` to install the project dependencies.
@@ -88,12 +85,6 @@ git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git mast
 ## Contributing
 
 Feel free to submit a pull request!
-
-## Authors
-
-- **aqche** - _Author_ - [aqche](https://github.com/aqche)
-
-See also the list of [contributors](https://github.com/aqche/flaskeddit/contributors) who participated in this project.
 
 ## License
 
